@@ -1,2 +1,2 @@
 # neouniversity
-Machine learning and AI
+Master of Science: Artificial Intelligence and Machine Learning
